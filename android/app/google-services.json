@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "829378398834",
+    "firebase_url": "https://energi-kolaborasi.firebaseio.com",
+    "project_id": "energi-kolaborasi",
+    "storage_bucket": "energi-kolaborasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829378398834:android:0d7c8a0adc5e79c8a6d0eb",
+        "android_client_info": {
+          "package_name": "com.energikolaborasi.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829378398834-ua24qqhvlhc0bs2557ltvvfa7qceet17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.energikolaborasi.android",
+            "certificate_hash": "1818f0e45ea86fdc98080f3868043b11f248e58a"
+          }
+        },
+        {
+          "client_id": "829378398834-akvvr43unf52rr5adh3be60auc1n281q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLPxwBFcdJeI0cB9NQlq0hRI9Gs-jePgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829378398834-akvvr43unf52rr5adh3be60auc1n281q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829378398834:android:03e9a4f731cb47e7a6d0eb",
+        "android_client_info": {
+          "package_name": "com.venragroup.cp.energi_kolaborasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829378398834-auk73fid5jdrre4s6okrhv21tm41nlqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venragroup.cp.energi_kolaborasi",
+            "certificate_hash": "1818f0e45ea86fdc98080f3868043b11f248e58a"
+          }
+        },
+        {
+          "client_id": "829378398834-akvvr43unf52rr5adh3be60auc1n281q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLPxwBFcdJeI0cB9NQlq0hRI9Gs-jePgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829378398834-akvvr43unf52rr5adh3be60auc1n281q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
